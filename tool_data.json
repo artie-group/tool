@@ -1,0 +1,35 @@
+{
+    "category": [
+        {
+            "id": 1,
+            "name": ""
+        },
+        {
+            "id": 2,
+            "name": ""
+        }
+    ],
+    "lists": [
+        {
+            "parent": 1,
+            "name": "網頁元素PDF輸出",
+            "url": "",
+            "hide": "",
+            "_comment": ""
+        },
+        {
+            "parent": 1,
+            "name": "slick.js 擴充功能",
+            "url": "",
+            "hide": "",
+            "_comment": ""
+        },
+        {
+            "parent": 1,
+            "name": "跑馬燈",
+            "url": "",
+            "hide": "",
+            "_comment": ""
+        }
+    ]        
+}
