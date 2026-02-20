@@ -1,0 +1,82 @@
+/****NotoSansTC****/
+@font-face {
+    font-family: 'NotoSansTC';
+    font-display: swap;
+    font-weight: 100;
+    src: local('Noto Sans TC Thin'),
+        url('/__static__/assets/fonts/NotoSansTC/NotoSansTC-Thin.woff2') format('woff2'),
+        url('/__static__/assets/fonts/NotoSansTC/NotoSansTC-Thin.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NotoSansTC';
+    font-display: swap;
+    font-weight: 200;
+    src: local('Noto Sans TC Light'),
+        url('/__static__/assets/fonts/NotoSansTC/NotoSansTC-Light.woff2') format('woff2'),
+        url('/__static__/assets/fonts/NotoSansTC/NotoSansTC-Light.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NotoSansTC';
+    font-display: swap;
+    font-weight: 300;
+    src: local('Noto Sans TC Light'),
+        url('/__static__/assets/fonts/NotoSansTC/NotoSansTC-Light.woff2') format('woff2'),
+        url('/__static__/assets/fonts/NotoSansTC/NotoSansTC-Light.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NotoSansTC';
+    font-display: swap;
+    font-weight: 400;
+    src: local('Noto Sans TC Regular'),
+        local('Noto Sans TC'),
+        url('/__static__/assets/fonts/NotoSansTC/NotoSansTC-Regular.woff2') format('woff2'),
+        url('/__static__/assets/fonts/NotoSansTC/NotoSansTC-Regular.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NotoSansTC';
+    font-display: swap;
+    font-weight: 500;
+    src: local('Noto Sans TC Medium'),
+        url('/__static__/assets/fonts/NotoSansTC/NotoSansTC-Medium.woff2') format('woff2'),
+        url('/__static__/assets/fonts/NotoSansTC/NotoSansTC-Medium.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NotoSansTC';
+    font-display: swap;
+    font-weight: 600;
+    src: local('Noto Sans TC Medium'),
+        url('/__static__/assets/fonts/NotoSansTC/NotoSansTC-Medium.woff2') format('woff2'),
+        url('/__static__/assets/fonts/NotoSansTC/NotoSansTC-Medium.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NotoSansTC';
+    font-display: swap;
+    font-weight: 700;
+    src: local('Noto Sans TC Bold'),
+        url('/__static__/assets/fonts/NotoSansTC/NotoSansTC-Bold.woff2') format('woff2'),
+        url('/__static__/assets/fonts/NotoSansTC/NotoSansTC-Bold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NotoSansTC';
+    font-display: swap;
+    font-weight: 800;
+    src: local('Noto Sans TC Bold'),
+        url('/__static__/assets/fonts/NotoSansTC/NotoSansTC-Bold.woff2') format('woff2'),
+        url('/__static__/assets/fonts/NotoSansTC/NotoSansTC-Bold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NotoSansTC-BL';
+    font-display: swap;
+    font-weight: 900;
+    src: local('Noto Sans TC Black'),
+        url('/__static__/assets/fonts/NotoSansTC/NotoSansTC-Black.woff2') format('woff2'),
+        url('/__static__/assets/fonts/NotoSansTC/NotoSansTC-Black.otf') format('opentype');
+}
