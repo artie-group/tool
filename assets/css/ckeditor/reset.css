@@ -28,6 +28,16 @@
     letter-spacing: .05em;
 }
 
+*,
+::after,
+::before {
+    box-sizing: inherit
+}
+
+html {
+    box-sizing: border-box;
+}
+
 body {
     display: block;
     width: 100%;

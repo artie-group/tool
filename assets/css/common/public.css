@@ -1,10 +1,8 @@
 @charset "UTF-8";
 
 :root {
-    --mainColor: #800000;
-    --bgColor:#08090a;
-    --titleColor:#f7f8f8;
-    --textColor: #d0d6e0;
+    --mainColor: #a40000;
+    --textColor: #2e2e2e;
     --screenHeight: 100vh;
     --textAlign: justify;
 }
@@ -30,13 +28,21 @@ html[lang="en-US"]:root {
     letter-spacing: .05em;
 }
 
+*,
+::after,
+::before {
+    box-sizing: inherit
+}
+
 html,
 body {
     width: 100%;
-    color: var(--textColor);
-    background: var(--bgColor);
     -webkit-overflow-scrolling: touch;
     overflow-x: hidden;
+}
+
+html {
+    box-sizing: border-box;
 }
 
 body {
